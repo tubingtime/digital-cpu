@@ -1,4 +1,8 @@
-# project07-tubingtime
-### Hazard Unit:
- - If a instruction ahead of me is updating data (register) that i'm using, forward it.
- - Invert reg clock so we have just enough time to read?
+# Digital CPU
+
+This is a simulation of a 64-bit CPU, created using [Digital](https://github.com/hneemann/Digital).
+
+
+
+![overview](images/overview.png)
+![clock](images/clock.png)
